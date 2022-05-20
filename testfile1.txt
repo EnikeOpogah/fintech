@@ -1,1 +1,3 @@
 When I try to understand this Git, I just love trying
+
+This training is making lots of sense now
